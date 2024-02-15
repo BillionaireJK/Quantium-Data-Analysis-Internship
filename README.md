@@ -4,7 +4,7 @@ Language: Python 3.8 /
 Packages: pandas, matplotlib, mlxtend, datetime, sklearn, scipy
 
 # Project Overview and Task Insights 
-This program involves analyzing chip purchases at supermarkets, aimed at evaluating customer purchasing behaviors and the performance of trial stores with a new layout.
+It involves analyzing chip purchases at supermarkets, aimed at evaluating customer purchasing behaviors and the performance of trial stores with a new layout.
 
  # Task 1: Data Preparation and Customer Analytics
 - Data Cleaning: Modified date format to datetime, removed outliers and salsas.
