@@ -1,6 +1,6 @@
 # Quantium-Data-Analysis-Internship
 # Dependencies
-Language: Python 3.8 
+Language: Python 3.8 /
 Packages: pandas, matplotlib, mlxtend, datetime, sklearn, scipy
 
 # Project Overview and Task Insights 
